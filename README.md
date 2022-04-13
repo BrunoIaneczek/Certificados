@@ -1,2 +1,2 @@
 # Certificados
- Lista de certificações conquistadas
+Lista de certificados conquistados
